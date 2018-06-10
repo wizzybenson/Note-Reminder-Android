@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gestion Note</string>
+    <string name="disconnect">Deconnect</string>
+
+    <string-array name="colors_array">
+        <item>select color</item>
+        <item>#FF7F00</item>
+        <item>#FF0000</item>
+        <item>#FFFF00</item>
+        <item>#00FF00</item>
+        <item>#4B0082</item>
+        <item>#9400D3</item>
+        <item>#0000FF</item>
+        <item>#FFFFFF</item>
+    </string-array>
+</resources>
